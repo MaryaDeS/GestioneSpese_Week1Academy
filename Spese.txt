@@ -1,0 +1,5 @@
+Data        Categoria    Descrizione             Importo
+31/05/20221 Viaggio      Viaggio a Dubai         1200 euro
+21/01/2022  Vitto        Pranzo-Cena             70,50 euro
+17/01/2022  Alloggio     Camera Singola Deluxe   450 euro
+05/02/2022  Altro        Biglietti Metro         7 euro
